@@ -1,4 +1,8 @@
 print("hello world")
+<<<<<<< HEAD
+=======
+name=s
+>>>>>>> dev
 print('in dev branch)
 print hello djbkdf
 fggbrkrfbkbkfebkrbkr
