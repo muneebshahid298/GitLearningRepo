@@ -15,6 +15,7 @@ public class Loops {
 
 	for( i=0;i<n;i++){
 	System.out.println("my name is saurabh tiwari");
+System.out.println("changes");
 	}
 	}
 	}
